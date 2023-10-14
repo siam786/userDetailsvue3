@@ -1,35 +1,13 @@
-# blogProjectVue3
 
-This template should help get you started developing with Vue 3 in Vite.
+# Simple - User Details Form using vue wather and computed property
 
-## Recommended IDE Setup
+User Details form
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
+## Live Link
 
-## Customize configuration
+- [@Live Link](https://user-detailsvue3.vercel.app/)
 
-See [Vite Configuration Reference](https://vitejs.dev/config/).
 
-## Project Setup
+## Screenshots
 
-```sh
-npm install
-```
-
-### Compile and Hot-Reload for Development
-
-```sh
-npm run dev
-```
-
-### Compile and Minify for Production
-
-```sh
-npm run build
-```
-
-### Lint with [ESLint](https://eslint.org/)
-
-```sh
-npm run lint
-```
+![App Screenshot](https://i.ibb.co/zxPn31N/userdetails.jpg)
